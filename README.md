@@ -2,7 +2,9 @@
 
  🖥️ Penetration Tester 
   
-  👨🏻‍💻Cyber Secuirty Ethusiast
+  👨🏻‍💻 Cyber Secuirty Ethusiast
+  
+  🖥️ Software Engineer
  
  📫 nithinavula.99@gmail.com
 
