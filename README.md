@@ -67,7 +67,3 @@ B.Tech CS Engineer (2026) with a **Minor in Cybersecurity**, and hands-on experi
 - 🔌 [FTP Service Exploitation & Hardening](https://github.com/Nithin-099)
 - 🕸️ [Web Application Penetration Testing — DVWA](https://github.com/Nithin-099)
 
----
-
-</div>
-
