@@ -69,23 +69,11 @@ B.Tech CS Engineer (2026) with a **Minor in Cybersecurity**, and hands-on experi
 
 ---
 
-## 📬 CONTACT ME
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-nithinavula.99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithinavula.99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-avula-67409124a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4aa?style=for-the-badge&logo=github&logoColor=white)](https://Nithin-099.github.io)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918309549436)
-[![Phone](https://img.shields.io/badge/Phone-+91_8309549436-grey?style=for-the-badge&logo=phone&logoColor=white)](tel:+918309549436)
-
 </div>
 
 ---
 
 <div align="center">
 
-*🔐 Open to Full-Time Roles · Internships · Freelance VAPT Engagements*
-*📍 Hyderabad, India *
 
 </div>
