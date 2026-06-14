@@ -19,10 +19,15 @@ I continuously enhance my knowledge through hands-on practice on platforms such 
 I am currently focused on strengthening my expertise in:
 
 • Web Application Penetration Testing
+
 • Vulnerability Assessment
+
 • Network Security
+
 • Bug Bounty Methodologies
+
 • Security Automation
+
 • AI Applications in Cybersecurity
 
 I enjoy solving real-world security challenges, researching emerging threats, and contributing to the cybersecurity community by sharing knowledge and maintaining detailed documentation of my work.
