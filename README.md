@@ -71,9 +71,3 @@ B.Tech CS Engineer (2026) with a **Minor in Cybersecurity**, and hands-on experi
 
 </div>
 
----
-
-<div align="center">
-
-
-</div>
