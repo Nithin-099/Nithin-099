@@ -86,6 +86,6 @@ B.Tech CS Engineer (2026) with a **Minor in Cybersecurity**, and hands-on experi
 <div align="center">
 
 *🔐 Open to Full-Time Roles · Internships · Freelance VAPT Engagements*
-*📍 Hyderabad, India · Available from June 2026*
+*📍 Hyderabad, India *
 
 </div>
