@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Nithin Avula! 👋
-### Junior Penetration Tester · VAPT Specialist · Cybersecurity Fresher
+###  Cybersecurity Analyst · Penetration Tester · SOC Analyst  · VAPT · Threat Detection · Security Monitoring 
 
 [![Email](https://img.shields.io/badge/Gmail-nithinavula.99%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinavula.99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nithin--avula-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-avula-67409124a)
@@ -15,13 +15,16 @@
 
 ## 🧑‍💻 ABOUT ME
 
-B.Tech CS Engineer (2026) with a **Minor in Cybersecurity**, and hands-on experience in **network & protocol-level security assessments**, **vulnerability management**, and **penetration testing** across enterprise environments. Proficient in Python, Java, and SQL; practised in ethical hacking methodologies, VAPT workflows, and Linux CLI.
+🎯 Cybersecurity graduate with hands-on experience in Penetration Testing, Vulnerability Assessment, Security Monitoring, and Threat Detection across enterprise environments. Skilled in Linux, Windows, Networking, Python, Java, and SQL, with practical experience using Burp Suite, Nmap, Wireshark, Nessus, Metasploit, and Wazuh SIEM. Experienced in identifying vulnerabilities, analyzing security events, and supporting remediation efforts through structured security assessments and reporting.
 
-- 🔐 Experienced in **Penetration Testing** — recon, exploitation, validation, and remediation reporting
-- 🌐 Conducted **VAPT across 25+ systems** and **50+ network protocols** across two internships
-- 🐛 Identified **10+ critical vulnerabilities** with detailed POC-backed security reports
-- 📉 Delivered measurable impact — **40% vulnerability reduction** and **30% network resilience improvement**
-- 🎯 Passionate about **offensive security**, OWASP Top 10, and securing enterprise-grade systems
+* 🔐 Hands-on experience in Penetration Testing, Vulnerability Assessment, and Security Analysis
+* 🌐 Conducted VAPT assessments across systems and network protocols during internships and lab projects
+* 🐛 Identified and validated low & critical vulnerabilities with detailed proof-of-concept documentation and remediation recommendations
+* 📊 Built a SOC Monitoring & Threat Detection Platform using Wazuh SIEM, Sysmon, Windows, Ubuntu, and Kali Linux
+* 🚨 Skilled in log analysis, security monitoring, incident investigation, and threat detection methodologies
+* 🛡️ Familiar with OWASP Top 10, Vulnerability Management, Security Operations, and Incident Response fundamentals
+* 🚀 Actively seeking entry-level opportunities in Cyber Security, SOC Analysis, Security Operations, VAPT, and Penetration Testing
+
 
 ---
 
@@ -34,30 +37,43 @@ B.Tech CS Engineer (2026) with a **Minor in Cybersecurity**, and hands-on experi
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+
 ### Security Tools
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B4C8?style=for-the-badge&logo=tenable&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge\&logo=metasploit\&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge\&logo=nmap\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4C8?style=for-the-badge\&logo=tenable\&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-005571?style=for-the-badge\&logo=wazuh\&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
 ### Security Domains
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![VAPT](https://img.shields.io/badge/VAPT-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-00d4aa?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Web App Security](https://img.shields.io/badge/Web_App_Security-E34F26?style=for-the-badge&logo=owasp&logoColor=white)
-![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-FF6C37?style=for-the-badge&logo=tenable&logoColor=white)
+
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-FF0000?style=for-the-badge\&logo=hackthebox\&logoColor=white)
+![SOC Operations](https://img.shields.io/badge/SOC_Operations-0A66C2?style=for-the-badge\&logo=securityscorecard\&logoColor=white)
+![Web App Security](https://img.shields.io/badge/Web_App_Security-E34F26?style=for-the-badge\&logo=owasp\&logoColor=white)
+![VAPT](https://img.shields.io/badge/VAPT-8A2BE2?style=for-the-badge\&logo=hackthebox\&logoColor=white)
+![Threat Detection](https://img.shields.io/badge/Threat_Detection-FF4500?style=for-the-badge\&logo=securityscorecard\&logoColor=white)
+![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-228B22?style=for-the-badge\&logo=securityscorecard\&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-8B0000?style=for-the-badge\&logo=securityscorecard\&logoColor=white)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-FF6C37?style=for-the-badge\&logo=tenable\&logoColor=white)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-4B0082?style=for-the-badge\&logo=securityscorecard\&logoColor=white)
+![OWASP\_Top\_10](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
 
 ### Networking & OS
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Firewalls](https://img.shields.io/badge/Firewalls-FF0000?style=for-the-badge&logo=cisco&logoColor=white)
 
----
+![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge\&logo=cisco\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-FF0000?style=for-the-badge\&logo=cisco\&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-005571?style=for-the-badge\&logo=wazuh\&logoColor=white)
+![Log\_Analysis](https://img.shields.io/badge/Log_Analysis-006400?style=for-the-badge\&logo=windows\&logoColor=white)
+![Network\_Security](https://img.shields.io/badge/Network_Security-1E90FF?style=for-the-badge\&logo=cisco\&logoColor=white)
+![Security\_Operations](https://img.shields.io/badge/Security_Operations-483D8B?style=for-the-badge\&logo=securityscorecard\&logoColor=white)
+
 
 ## 🚀 PROJECTS
 
