@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Nithin Avula! 👋
-###  Cybersecurity Analyst · Penetration Tester · SOC Analyst  · VAPT · Threat Detection · Security Monitoring 
+###  Cybersecurity Analyst | Penetration Tester | SOC Analyst  | VAPT | Threat Detection | Security Monitoring 
 
 [![Email](https://img.shields.io/badge/Gmail-nithinavula.99%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinavula.99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nithin--avula-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-avula-67409124a)
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 ABOUT ME
 
-🎯 Cybersecurity graduate with hands-on experience in Penetration Testing, Vulnerability Assessment, Security Monitoring, and Threat Detection across enterprise environments. Skilled in Linux, Windows, Networking, Python, Java, and SQL, with practical experience using Burp Suite, Nmap, Wireshark, Nessus, Metasploit, and Wazuh SIEM. Experienced in identifying vulnerabilities, analyzing security events, and supporting remediation efforts through structured security assessments and reporting.
+🎯 Cybersecurity graduate with hands-on experience in Penetration Testing, Vulnerability Assessment, Security Monitoring, and Threat Detection across enterprise environments. Skilled in Linux, Windows,       Networking, Python, Java, and SQL, with practical experience using Burp Suite, Nmap, Wireshark, Nessus, Metasploit, and Wazuh SIEM. Experienced in identifying vulnerabilities, analyzing security events, and  supporting remediation efforts through structured security assessments and reporting.
 
 * 🔐 Hands-on experience in Penetration Testing, Vulnerability Assessment, and Security Analysis
 * 🌐 Conducted VAPT assessments across systems and network protocols during internships and lab projects
