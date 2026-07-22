@@ -79,8 +79,8 @@
 
 - 🔓 [Network and Web Security Testing](https://github.com/Nithin-099/Network-and-Web-Security-Testing-)
 - 🎹 [Keylogging Based Threat Analysis Project](https://github.com/Nithin-099/Keylogging-Based-Threat-Analysis-Project)
-- 🔌 [FTP Service Exploitation & Hardening](https://github.com/Nithin-099)
-- 🕸️ [Web Application Penetration Testing — DVWA](https://github.com/Nithin-099)
+- 🔌 [FTP Service Exploitation & Hardening](https://github.com/Nithin-099/[FTP-Service-Exploitation-Hardening)
+- 🕸️ [Web Application Penetration Testing — DVWA](https://github.com/Nithin-099/Web-Application-Penetration-Testing-DVWA)
 - 🛒 [Automated-Vulnerability-Management-Platform](https://github.com/Nithin-099/Automated-Vulnerability-Management-Platform)
 - 📊 [SOC-Monitoring-and-Threat-Detection-Using-Wazuh](https://github.com/Nithin-099/SOC-Monitoring-and-Threat-Detection-Using-Wazuh)
 
