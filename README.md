@@ -82,4 +82,5 @@
 - 🔌 [FTP Service Exploitation & Hardening](https://github.com/Nithin-099)
 - 🕸️ [Web Application Penetration Testing — DVWA](https://github.com/Nithin-099)
 - 🛒 [Automated-Vulnerability-Management-Platform](https://github.com/Nithin-099/Automated-Vulnerability-Management-Platform)
+- 📊 [SOC-Monitoring-and-Threat-Detection-Using-Wazuh](https://github.com/Nithin-099/SOC-Monitoring-and-Threat-Detection-Using-Wazuh)
 
