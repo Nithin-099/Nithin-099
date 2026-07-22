@@ -82,4 +82,5 @@
 - 🛒 [E-Commerce Backend API](https://github.com/Nithin-099/E-Commerce-Backend-API)
 - 🔌 [FTP Service Exploitation & Hardening](https://github.com/Nithin-099)
 - 🕸️ [Web Application Penetration Testing — DVWA](https://github.com/Nithin-099)
+-    [Automated-Vulnerability-Management-Platform](https://github.com/Nithin-099)
 
