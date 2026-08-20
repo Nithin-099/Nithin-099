@@ -17,13 +17,13 @@
 
 🎯 Cybersecurity graduate with hands-on experience in Penetration Testing, Vulnerability Assessment, Security Monitoring, and Threat Detection across enterprise environments. Skilled in Linux, Windows,       Networking, Python, Java, and SQL, with practical experience using Burp Suite, Nmap, Wireshark, Nessus, Metasploit, and Wazuh SIEM. Experienced in identifying vulnerabilities, analyzing security events, and  supporting remediation efforts through structured security assessments and reporting.
 
-* 🔐 Hands-on experience in Penetration Testing, Vulnerability Assessment, and Security Analysis
-* 🌐 Conducted VAPT assessments across systems and network protocols during internships and lab projects
-* 🐛 Identified and validated low & critical vulnerabilities with detailed proof-of-concept documentation and remediation recommendations
-* 📊 Built a SOC Monitoring & Threat Detection Platform using Wazuh SIEM, Sysmon, Windows, Ubuntu, and Kali Linux
-* 🚨 Skilled in log analysis, security monitoring, incident investigation, and threat detection methodologies
-* 🛡️ Familiar with OWASP Top 10, Vulnerability Management, Security Operations, and Incident Response fundamentals
-* 🚀 Actively seeking entry-level opportunities in Cyber Security, SOC Analysis, Security Operations, VAPT, and Penetration Testing
+*  Hands-on experience in Penetration Testing, Vulnerability Assessment, and Security Analysis
+*  Conducted VAPT assessments across systems and network protocols during internships and lab projects
+*  Identified and validated low & critical vulnerabilities with detailed proof-of-concept documentation and remediation recommendations
+*  Built a SOC Monitoring & Threat Detection Platform using Wazuh SIEM, Sysmon, Windows, Ubuntu, and Kali Linux
+*  Skilled in log analysis, security monitoring, incident investigation, and threat detection methodologies
+*  Familiar with OWASP Top 10, Vulnerability Management, Security Operations, and Incident Response fundamentals
+*  Actively seeking entry-level opportunities in Cyber Security, SOC Analysis, Security Operations, VAPT, and Penetration Testing
 
 
 ---
@@ -77,11 +77,11 @@
 
 ## 🚀 PROJECTS
 
-- 🔓 [Network and Web Security Testing](https://github.com/Nithin-099/Network-and-Web-Security-Testing-)
-- 🎹 [Keylogging Based Threat Analysis Project](https://github.com/Nithin-099/Keylogging-Based-Threat-Analysis-Project)
-- 🔌 [FTP Service Exploitation & Hardening](https://github.com/Nithin-099/[FTP-Service-Exploitation-Hardening)
-- 🕸️ [Web Application Penetration Testing — DVWA](https://github.com/Nithin-099/Web-Application-Penetration-Testing-DVWA)
-- 🛒 [Automated-Vulnerability-Management-Platform](https://github.com/Nithin-099/Automated-Vulnerability-Management-Platform)
-- 📊 [SOC-Monitoring-and-Threat-Detection-Using-Wazuh](https://github.com/Nithin-099/SOC-Monitoring-and-Threat-Detection-Using-Wazuh)
-- 🧑‍💻 [Blue-Team-Investigation-Lab](https://github.com/Nithin-099/Blue-Team-Investigation-Lab)
+-  [Network and Web Security Testing](https://github.com/Nithin-099/Network-and-Web-Security-Testing-)
+-  [Keylogging Based Threat Analysis Project](https://github.com/Nithin-099/Keylogging-Based-Threat-Analysis-Project)
+-  [FTP Service Exploitation & Hardening](https://github.com/Nithin-099/[FTP-Service-Exploitation-Hardening)
+-  [Web Application Penetration Testing — DVWA](https://github.com/Nithin-099/Web-Application-Penetration-Testing-DVWA)
+-  [Automated-Vulnerability-Management-Platform](https://github.com/Nithin-099/Automated-Vulnerability-Management-Platform)
+-  [SOC-Monitoring-and-Threat-Detection-Using-Wazuh](https://github.com/Nithin-099/SOC-Monitoring-and-Threat-Detection-Using-Wazuh)
+-  [Blue-Team-Investigation-Lab](https://github.com/Nithin-099/Blue-Team-Investigation-Lab)
 
