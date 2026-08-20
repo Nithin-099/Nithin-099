@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-nithinavula.99%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinavula.99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nithin--avula-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-avula-67409124a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Nithin%20Avula-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://nithinavula-portfolio.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://nithinavula-portfolio.lovable.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-8309549436-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918309549436)
 [![Location](https://img.shields.io/badge/📍_Hyderabad,_India-grey?style=flat-square)](https://maps.google.com/?q=Hyderabad,India)
 
