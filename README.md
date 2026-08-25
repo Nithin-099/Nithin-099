@@ -1,7 +1,8 @@
 <div align="center">
 
 # Hi, I'm Nithin Avula! 👋
-###  Cybersecurity Analyst | Penetration Tester | SOC Analyst  | VAPT | Threat Detection | Security Monitoring 
+
+### Cybersecurity Analyst | SOC | VAPT | Threat Detection
 
 [![Email](https://img.shields.io/badge/Gmail-nithinavula.99%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinavula.99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nithin--avula-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-avula-67409124a)
@@ -15,15 +16,45 @@
 
 ## 🧑‍💻 ABOUT ME
 
-🎯 Cybersecurity graduate with hands-on experience in Penetration Testing, Vulnerability Assessment, Security Monitoring, and Threat Detection across enterprise environments. Skilled in Linux, Windows,       Networking, Python, Java, and SQL, with practical experience using Burp Suite, Nmap, Wireshark, Nessus, Metasploit, and Wazuh SIEM. Experienced in identifying vulnerabilities, analyzing security events, and  supporting remediation efforts through structured security assessments and reporting.
+🎯 Cybersecurity graduate focused on **SOC operations, threat detection, vulnerability assessment, and penetration testing**.
 
-*  Hands-on experience in Penetration Testing, Vulnerability Assessment, and Security Analysis
-*  Conducted VAPT assessments across systems and network protocols during internships and lab projects
-*  Identified and validated low & critical vulnerabilities with detailed proof-of-concept documentation and remediation recommendations
-*  Built a SOC Monitoring & Threat Detection Platform using Wazuh SIEM, Sysmon, Windows, Ubuntu, and Kali Linux
-*  Skilled in log analysis, security monitoring, incident investigation, and threat detection methodologies
-*  Familiar with OWASP Top 10, Vulnerability Management, Security Operations, and Incident Response fundamentals
-*  Actively seeking entry-level opportunities in Cyber Security, SOC Analysis, Security Operations, VAPT, and Penetration Testing
+I build hands-on security labs, investigate security events, validate vulnerabilities, and document findings with evidence, impact, and remediation.
+
+## 🔵 Blue Team
+**Wazuh 
+• Splunk 
+• SIEM 
+• Alert Triage 
+• Log Analysis 
+• PCAP Analysis 
+• IOC Analysis 
+• MITRE ATT&CK**
+
+## 🔴 Red Team
+**VAPT 
+• Web Application Security 
+• Burp Suite 
+• Nmap 
+• Nessus 
+• OWASP ZAP 
+• Metasploit 
+• OWASP Top 10 
+• CVSS**
+
+## ⭐ Featured Projects
+
+### 🔵 SOC Monitoring & Threat Detection — Wazuh
+Hands-on SOC lab covering SIEM deployment, security-event monitoring, alert triage, log analysis, detection-rule tuning, and incident investigation.
+
+### 🔴 Automated Vulnerability Management Platform
+Python/Flask-based platform for vulnerability assessment, Nmap scanning, vulnerability validation, CVE/CWE/CVSS enrichment, OWASP mapping, and security reporting.
+
+### 🔴 Web Application Penetration Testing — DVWA
+Controlled web application security testing covering SQLi, XSS, CSRF, command injection, authentication weaknesses, Burp Suite, OWASP ZAP, CVSS, and remediation.
+
+### 🔵 Blue-Team Investigation Case Studies
+Hands-on investigations completed through **TryHackMe and CyberDefenders**, covering log/PCAP analysis, IOC extraction, attack timelines, and MITRE ATT&CK mapping.
+
 
 
 ---
@@ -75,13 +106,4 @@
 ![Security\_Operations](https://img.shields.io/badge/Security_Operations-483D8B?style=for-the-badge\&logo=securityscorecard\&logoColor=white)
 
 
-## 🚀 PROJECTS
-
--  [Network and Web Security Testing](https://github.com/Nithin-099/Network-and-Web-Security-Testing-)
--  [Keylogging Based Threat Analysis Project](https://github.com/Nithin-099/Keylogging-Based-Threat-Analysis-Project)
--  [FTP Service Exploitation & Hardening](https://github.com/Nithin-099/[FTP-Service-Exploitation-Hardening)
--  [Web Application Penetration Testing — DVWA](https://github.com/Nithin-099/Web-Application-Penetration-Testing-DVWA)
--  [Automated-Vulnerability-Management-Platform](https://github.com/Nithin-099/Automated-Vulnerability-Management-Platform)
--  [SOC-Monitoring-and-Threat-Detection-Using-Wazuh](https://github.com/Nithin-099/SOC-Monitoring-and-Threat-Detection-Using-Wazuh)
--  [Blue-Team-Investigation-Lab](https://github.com/Nithin-099/Blue-Team-Investigation-Lab)
 
